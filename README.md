@@ -10,12 +10,10 @@ Python для студентов Биомедицинской инженерии
 При возникновении вопросов, рекомендаций, пожеланий — обращайтесь: tstu-no@inbox.ru
 
 ## Содержание
-### intro_1
-[Базовые операции](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/intro_1.ipynb)
-### intro_2
-[Функции](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/intro_2.ipynb)
-### intro_3
-[Импорт](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/1_intro_3.ipynb)
+### Введение
+[1. Базовые операции](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/1_intro_1.ipynb)  
+[2. Функции](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/1_intro_2.ipynb)  
+[3. Импорт](https://github.com/TSTU-no/Python-for-BME/blob/master/Quick_start/1_intro_3.ipynb)
 ### NumPy
 [Работа с вычислительной библиотекой NumPy]()
 ### Matplotlib
